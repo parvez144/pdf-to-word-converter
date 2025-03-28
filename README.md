@@ -15,6 +15,8 @@ This Python project converts PDF files to Word (.docx) format while preserving b
 ## 🛠 Requirements
 Ensure you have the following installed before running the script:
 
+### Python 3
+
 ### 📌 Install Dependencies
 pip install pdfplumber pytesseract pillow python-docx
 
@@ -25,10 +27,10 @@ pip install pdfplumber pytesseract pillow python-docx
 
 ## 🔧 Usage
 Run the script with the following command:
-python pdf_to_word.py input.pdf
+python pdf_to_word.py
+A file dialog box will open then select your desire PDF file.
+After conversion you will find your file where was your PDF file.
 
-### 📌 Example
-python pdf_to_word.py "sample.pdf"
 
 ## 📂 Project Structure
 📁 PDF-to-Word-Converter
