@@ -1,0 +1,6 @@
+pdfplumber>=0.9.0
+pytesseract>=0.3.10
+pdf2docx>=0.5.6
+Pillow>=9.0.0
+python-docx>=0.8.11
+pyinstaller>=5.0.0 

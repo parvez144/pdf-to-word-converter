@@ -1,0 +1,30 @@
+PDF to Word Converter - Installation Complete!
+
+Thank you for installing PDF to Word Converter!
+
+WHAT'S NEXT:
+1. Launch the application from the desktop shortcut or start menu
+2. Select a PDF file to convert
+3. Choose your preferred conversion mode
+4. Click "Convert to Word"
+
+CONVERSION MODES:
+• Auto (Best Quality) - Recommended for most PDFs
+• Text-based PDF only - Fast for documents with selectable text
+• Scanned PDF with OCR - For scanned documents and images
+
+TIPS FOR BEST RESULTS:
+• Use "Auto" mode for most PDF files
+• Ensure good image quality (300+ DPI) for scanned documents
+• Install Tesseract OCR for better scanned PDF support
+• Close PDF files in other applications before converting
+
+SUPPORT:
+If you encounter any issues:
+• Check the troubleshooting section in the README
+• Ensure Tesseract OCR is installed for scanned PDFs
+• Try different conversion modes
+
+The application is now ready to use!
+
+© 2025 | by spk 

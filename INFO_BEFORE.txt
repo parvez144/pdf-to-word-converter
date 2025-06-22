@@ -1,0 +1,29 @@
+PDF to Word Converter - Installation Information
+
+Welcome to PDF to Word Converter!
+
+This application allows you to convert PDF files to Word documents (DOCX format) with support for both text-based and scanned PDFs.
+
+FEATURES:
+• Professional dark theme GUI
+• Multiple conversion modes (Auto, Text-only, OCR)
+• Support for scanned PDFs with OCR
+• Automatic output in same directory as input
+• Progress tracking and error handling
+• No installation required for portable version
+
+REQUIREMENTS:
+• Windows 10 or later
+• Tesseract OCR (optional, for scanned PDF support)
+  Download from: https://github.com/UB-Mannheim/tesseract/wiki
+
+INSTALLATION:
+This installer will:
+• Install the application to Program Files
+• Create desktop and start menu shortcuts
+• Add file associations (optional)
+• Create an uninstaller
+
+For portable use, you can also use the portable version which requires no installation.
+
+© 2025 | by spk 
