@@ -269,4 +269,4 @@ For support and questions:
 
 **Built with ❤️ for efficient PDF to Word conversion**
 
-*© 2025 | Built for Manel by Shahriar* 
+*© 2025 | by spk* 
