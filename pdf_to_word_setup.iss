@@ -3,7 +3,7 @@
 
 #define MyAppName "PDF to Word Converter"
 #define MyAppVersion "1.0"
-#define MyAppPublisher "spk"
+#define MyAppPublisher "Shahriar Parvez Khan"
 #define MyAppURL "https://github.com/parvez144/pdf-to-word-converter"
 #define MyAppExeName "PDF to Word Converter.exe"
 
